@@ -1,0 +1,54 @@
+<svg width="1600" height="1000" viewBox="0 0 1600 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="1000" fill="#020715"/>
+  <rect x="40" y="40" width="1520" height="920" rx="42" fill="url(#bg)"/>
+  <path d="M160 748C330 690 498 686 664 734C816 778 986 778 1162 714C1260 678 1352 670 1440 692V880H160V748Z" fill="#041628" opacity=".9"/>
+  <g opacity=".22" stroke="#7DEEFF" stroke-width="3">
+    <path d="M210 250C314 216 418 216 522 250"/>
+    <path d="M1030 214C1144 176 1258 178 1372 220"/>
+    <path d="M960 790C1064 750 1168 748 1272 784"/>
+  </g>
+  <ellipse cx="1198" cy="248" rx="240" ry="170" fill="#1FD6FF" opacity=".18"/>
+  <ellipse cx="346" cy="782" rx="330" ry="190" fill="#6C5CFF" opacity=".18"/>
+  <rect x="228" y="176" width="1144" height="648" rx="36" fill="#06111F" opacity=".82" stroke="url(#edge)" stroke-width="2"/>
+  <circle cx="800" cy="492" r="250" fill="url(#orb)" opacity=".22"/>
+  <circle cx="800" cy="492" r="178" fill="#07192C" stroke="#62E8FF" stroke-width="10"/>
+  <circle cx="800" cy="492" r="112" fill="#0B2A45" stroke="#89F6FF" stroke-opacity=".5" stroke-width="2"/>
+  <path d="M690 492C718 426 766 394 834 396C898 398 950 436 976 500" stroke="#88F7FF" stroke-width="14" stroke-linecap="round"/>
+  <path d="M652 560C700 604 752 626 808 626C866 626 920 604 972 558" stroke="#34D7FF" stroke-width="12" stroke-linecap="round" opacity=".85"/>
+  <g stroke="#97FAFF" stroke-linecap="round">
+    <path d="M504 424V562" stroke-width="12"/>
+    <path d="M466 464H542" stroke-width="12"/>
+    <path d="M466 522H526" stroke-width="12"/>
+    <path d="M1092 424V562" stroke-width="12"/>
+    <path d="M1054 464H1130" stroke-width="12"/>
+    <path d="M1070 522H1130" stroke-width="12"/>
+  </g>
+  <g stroke="#34D7FF" stroke-width="7" stroke-linecap="round" opacity=".72">
+    <path d="M382 478C428 420 484 392 550 394"/>
+    <path d="M1218 392C1288 394 1344 428 1386 494"/>
+    <path d="M382 622C440 656 500 670 562 664"/>
+    <path d="M1238 652C1300 652 1350 632 1388 592"/>
+  </g>
+  <g fill="#B7FFFF">
+    <circle cx="370" cy="482" r="9"/>
+    <circle cx="1228" cy="392" r="9"/>
+    <circle cx="388" cy="622" r="9"/>
+    <circle cx="1388" cy="592" r="9"/>
+  </g>
+  <defs>
+    <linearGradient id="bg" x1="156" y1="112" x2="1432" y2="908" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#061327"/>
+      <stop offset=".55" stop-color="#092948"/>
+      <stop offset="1" stop-color="#14376A"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="228" y1="176" x2="1372" y2="824" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#B2FFFF" stop-opacity=".86"/>
+      <stop offset="1" stop-color="#2959FF" stop-opacity=".22"/>
+    </linearGradient>
+    <radialGradient id="orb" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(800 492) rotate(90) scale(250)">
+      <stop stop-color="#85FFFF"/>
+      <stop offset=".48" stop-color="#18C8FF"/>
+      <stop offset="1" stop-color="#2B54FF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>

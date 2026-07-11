@@ -1,0 +1,32 @@
+<svg width="1600" height="1000" viewBox="0 0 1600 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="1000" fill="#020715"/>
+  <rect x="40" y="40" width="1520" height="920" rx="42" fill="url(#bg)"/>
+  <ellipse cx="1258" cy="240" rx="260" ry="170" fill="#24D9FF" opacity=".16"/>
+  <ellipse cx="334" cy="812" rx="350" ry="190" fill="#7068FF" opacity=".15"/>
+  <rect x="216" y="166" width="1168" height="668" rx="38" fill="#06111F" opacity=".84" stroke="url(#edge)" stroke-width="2"/>
+  <path d="M360 732C470 668 606 636 768 636C938 636 1090 672 1240 744" stroke="#77F4FF" stroke-width="10" stroke-linecap="round" opacity=".46"/>
+  <path d="M532 736C532 662 590 604 664 604H936C1010 604 1068 662 1068 736V770H532V736Z" fill="#0B243B" stroke="#65EBFF" stroke-opacity=".36" stroke-width="3"/>
+  <rect x="586" y="344" width="428" height="280" rx="58" fill="#102A43" stroke="#83F8FF" stroke-width="10"/>
+  <rect x="648" y="412" width="304" height="146" rx="34" fill="#07192C" stroke="#53E8FF" stroke-opacity=".38"/>
+  <circle cx="716" cy="486" r="34" fill="#9BFFFF"/>
+  <circle cx="884" cy="486" r="34" fill="#9BFFFF"/>
+  <path d="M746 552C782 578 820 578 856 552" stroke="#5AE9FF" stroke-width="10" stroke-linecap="round"/>
+  <rect x="642" y="250" width="316" height="106" rx="34" fill="#0E263E" stroke="#5FEAFF" stroke-opacity=".5" stroke-width="4"/>
+  <path d="M728 250V204C728 184 744 168 764 168H836C856 168 872 184 872 204V250" stroke="#78F4FF" stroke-width="10" stroke-linecap="round"/>
+  <rect x="454" y="614" width="116" height="126" rx="28" fill="#102A43" stroke="#65EBFF" stroke-opacity=".34" stroke-width="4"/>
+  <rect x="1030" y="614" width="116" height="126" rx="28" fill="#102A43" stroke="#65EBFF" stroke-opacity=".34" stroke-width="4"/>
+  <circle cx="512" cy="676" r="42" fill="#38D8FF" opacity=".28"/>
+  <circle cx="1088" cy="676" r="42" fill="#38D8FF" opacity=".28"/>
+  <path d="M382 520C430 488 480 474 532 478M1068 478C1128 466 1188 476 1246 510M398 390C460 356 520 340 578 342M1022 342C1094 336 1162 348 1226 378" stroke="#77F4FF" stroke-width="8" stroke-linecap="round" opacity=".6"/>
+  <defs>
+    <linearGradient id="bg" x1="150" y1="106" x2="1448" y2="912" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#061327"/>
+      <stop offset=".58" stop-color="#082846"/>
+      <stop offset="1" stop-color="#12406F"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="216" y1="166" x2="1384" y2="834" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ACFFFF" stop-opacity=".86"/>
+      <stop offset="1" stop-color="#3064FF" stop-opacity=".22"/>
+    </linearGradient>
+  </defs>
+</svg>

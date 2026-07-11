@@ -1,0 +1,35 @@
+<svg width="1600" height="1000" viewBox="0 0 1600 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="1000" fill="#020715"/>
+  <rect x="40" y="40" width="1520" height="920" rx="42" fill="url(#bg)"/>
+  <ellipse cx="1218" cy="220" rx="240" ry="160" fill="#24D9FF" opacity=".16"/>
+  <ellipse cx="360" cy="820" rx="350" ry="190" fill="#6E63FF" opacity=".15"/>
+  <rect x="218" y="166" width="1164" height="668" rx="38" fill="#06111F" opacity=".84" stroke="url(#edge)" stroke-width="2"/>
+  <rect x="286" y="232" width="322" height="536" rx="30" fill="#08182A" stroke="#55E8FF" stroke-opacity=".28"/>
+  <rect x="646" y="232" width="668" height="536" rx="30" fill="#08182A" stroke="#55E8FF" stroke-opacity=".28"/>
+  <circle cx="980" cy="500" r="232" stroke="#36D5FF" stroke-width="3" stroke-dasharray="16 14" opacity=".3"/>
+  <path d="M936 344C968 302 1022 286 1074 306C1130 328 1166 386 1160 454C1150 570 1090 654 1010 716C982 738 940 720 942 684C946 622 922 574 880 528C842 486 830 430 858 386C874 362 902 350 936 344Z" fill="url(#foot)" stroke="#AEFFFF" stroke-width="6"/>
+  <path d="M844 542C774 558 728 612 708 704" stroke="#6BF2FF" stroke-width="12" stroke-linecap="round" opacity=".72"/>
+  <path d="M1186 532C1240 566 1274 622 1292 700" stroke="#6BF2FF" stroke-width="12" stroke-linecap="round" opacity=".72"/>
+  <circle cx="978" cy="416" r="54" fill="#0B2843" stroke="#8BFBFF" stroke-width="5"/>
+  <path d="M946 416H1010M978 384V448" stroke="#8BFBFF" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="448" cy="342" r="58" fill="#0B2843" stroke="#7BF4FF" stroke-width="5"/>
+  <path d="M448 294V390M400 342H496" stroke="#92FFFF" stroke-width="8" stroke-linecap="round"/>
+  <path d="M356 500H538M356 560H506M356 620H468M356 680H522" stroke="#A3FFFF" stroke-width="6" stroke-linecap="round" opacity=".58"/>
+  <path d="M714 320C748 286 786 270 828 270M1170 286C1224 300 1262 332 1284 382M676 742C734 778 800 792 874 786" stroke="#78F3FF" stroke-width="8" stroke-linecap="round" opacity=".55"/>
+  <defs>
+    <linearGradient id="bg" x1="152" y1="108" x2="1448" y2="912" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#061327"/>
+      <stop offset=".56" stop-color="#082846"/>
+      <stop offset="1" stop-color="#14406E"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="218" y1="166" x2="1382" y2="834" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ACFFFF" stop-opacity=".86"/>
+      <stop offset="1" stop-color="#3064FF" stop-opacity=".22"/>
+    </linearGradient>
+    <linearGradient id="foot" x1="856" y1="300" x2="1162" y2="718" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8DFFFF"/>
+      <stop offset=".55" stop-color="#28D5FF"/>
+      <stop offset="1" stop-color="#396DFF"/>
+    </linearGradient>
+  </defs>
+</svg>
